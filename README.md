@@ -1,1 +1,1 @@
-# Computer-Graphics-Project
+This project is a 2D car racing game developed using OpenGL (GLUT). It features a player-controlled car, randomly generated opponent vehicles and obstacles, collision detection, and a real-time scoring system. The game includes multiple difficulty levels and interactive controls, demonstrating concepts of 2D graphics rendering, animation, and game logic.
